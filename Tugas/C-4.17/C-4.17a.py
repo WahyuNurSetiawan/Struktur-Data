@@ -15,7 +15,7 @@ def is_palindrome(s):
         # Jika karakter pertama dan terakhir berbeda, bukan palindrom
         return False
 
-# Inputan beresta aturan minor
+# Inputan beserta aturan minor
 kata = input("Input Kata : ")
 kata = kata.strip() # Hapus spasi
 kata = kata.lower() # Menjadikan huruf kecil

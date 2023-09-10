@@ -1,7 +1,7 @@
 print("Program Mengecek Kata Palindrom atau Bukan Palindrom")
 print()
 
-# Inputan beresta aturan minor
+# Inputan beserta aturan minor
 kata = input("Input Kata : ")
 kata = kata.strip() # Hapus spasi
 kata = kata.lower() # Menjadikan huruf kecil
